@@ -4,18 +4,16 @@ let level_ = 0
 function level() {
     if(level_ == 0) {
         tiles.setCurrentTilemap(tilemap`niveau1`)
-        enemy_create()
     }
     if(level_ == 1) {
-        tiles.setCurrentTilemap(tilemap`niveau1`)
-        enemy_create()
+        tiles.setCurrentTilemap(tilemap`niveau2`)
     }
     level_ += 1
 }
 
 //main
 forever(function() {
-    if(info.score() == 64) {
+    if(info.score() == 32) {
         info.changeScoreBy(1)
         level()
     }

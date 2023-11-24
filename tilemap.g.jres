@@ -28,6 +28,23 @@
         "tilemapTile": true,
         "displayName": "myTile0"
     },
+    "tile5": {
+        "data": "hwQQABAAAAD//////////////x//H////////xHx//////8fHx///////x8fH////////xHx//////8f/x////////////////////////////8f/x////////8R8f//////Hx8f//////8fHx///xH///8R8f//////H/8f//8R/////////w==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "enemy2"
+    },
+    "niveau2": {
+        "id": "niveau2",
+        "mimeType": "application/mkcd-tilemap",
+        "data": "MTAwYTAwMDkwMDAxMDIwMjAyMDIwMjAyMDIwMjAxMDEwMjAyMDIwMjAyMDIwMjAyMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDIwMjAyMDIwMjAyMDIwMjAxMDEwMjAyMDIwMjAyMDIwMjAyMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMA==",
+        "tileset": [
+            "myTiles.transparency16",
+            "myTiles.tile1",
+            "myTiles.tile4"
+        ],
+        "displayName": "niveau2"
+    },
     "niveau1": {
         "id": "niveau1",
         "mimeType": "application/mkcd-tilemap",
