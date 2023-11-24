@@ -39,18 +39,6 @@ namespace myImages {
 . 8 8 8 . 8 8 8 . 
 . . 5 . . . 5 . . 
 `;
-            case "image5":
-            case "player_yellow0":return img`
-. . . . 5 . . . . 
-. . . . 5 . . . . 
-. . . 5 5 5 . . . 
-5 . 5 5 5 5 5 . 5 
-5 . 5 5 5 5 5 . 5 
-5 5 5 5 5 5 5 5 5 
-5 5 5 5 5 5 5 5 5 
-. 5 5 5 . 5 5 5 . 
-. . 2 . . . 2 . . 
-`;
             case "image6":
             case "bullet":return img`
 1 
@@ -87,6 +75,14 @@ namespace myImages {
 5 5 5 5 5 5 5 5 5 
 . 5 5 5 . 5 5 5 . 
 . . 2 . . . 2 . . 
+`;
+            case "image5":
+            case "enemy1_1":return img`
+1 . 1 1 . 1 
+. 1 . . 1 . 
+. 1 1 1 1 . 
+. 1 . . 1 . 
+1 . 1 1 . 1 
 `;
         }
         return null;

@@ -14,11 +14,6 @@
         "mimeType": "image/x-mkcd-f4",
         "displayName": "player_blue"
     },
-    "image5": {
-        "data": "hwQJAAkAAAAAUFUFAAAAAAAAUFUAAAAAAFBVVQIAAAAAVVVVAAAAAFVVVQUAAAAAAFVVVQAAAAAAUFVVAgAAAAAAUFUAAAAAAFBVBQAAAAA=",
-        "mimeType": "image/x-mkcd-f4",
-        "displayName": "player_yellow0"
-    },
     "image6": {
         "data": "hwQBAAMAAAARAQAA",
         "mimeType": "image/x-mkcd-f4",
@@ -33,6 +28,11 @@
         "data": "hwQJAAkAAAAAUFUFAAAAAAAAUFUAAAAAAFBVVQIAAAAAVVVVAAAAAFVVVQUAAAAAAFVVVQAAAAAAUFVVAgAAAAAAUFUAAAAAAFBVBQAAAAA=",
         "mimeType": "image/x-mkcd-f4",
         "displayName": "player_yellow"
+    },
+    "image5": {
+        "data": "hwQGAAUAAAABAAEAEBEAAAEBAQABAQEAEBEAAAEAAQA=",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "enemy1_1"
     },
     "*": {
         "mimeType": "image/x-mkcd-f4",

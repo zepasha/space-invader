@@ -15,7 +15,8 @@
         "tilemap.g.ts",
         "player_data.ts",
         "gun.ts",
-        "missile.ts"
+        "missile.ts",
+        "all_enemy.ts"
     ],
     "testFiles": [
         "test.ts"
