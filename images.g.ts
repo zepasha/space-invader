@@ -1,4 +1,4 @@
-// Code généré automatiquement. Ne pas modifier.
+// Auto-generated code. Do not edit.
 namespace myImages {
 
     helpers._registerFactory("image", function(name: string) {
@@ -39,8 +39,26 @@ namespace myImages {
 . 8 8 8 . 8 8 8 . 
 . . 5 . . . 5 . . 
 `;
-            case "image4":
-            case "player_yellow":return img`
+            case "image5":
+            case "player_yellow0":return img`
+. . . . 5 . . . . 
+. . . . 5 . . . . 
+. . . 5 5 5 . . . 
+5 . 5 5 5 5 5 . 5 
+5 . 5 5 5 5 5 . 5 
+5 5 5 5 5 5 5 5 5 
+5 5 5 5 5 5 5 5 5 
+. 5 5 5 . 5 5 5 . 
+. . 2 . . . 2 . . 
+`;
+            case "image6":
+            case "bullet":return img`
+1 
+1 
+1 
+`;
+            case "image7":
+            case "blank":return img`
 . . . . . . . . . . . . . . . . 
 . . . . . . . . . . . . . . . . 
 . . . . . . . . . . . . . . . . 
@@ -58,7 +76,7 @@ namespace myImages {
 . . . . . . . . . . . . . . . . 
 . . . . . . . . . . . . . . . . 
 `;
-            case "image5":
+            case "image4":
             case "player_yellow":return img`
 . . . . 5 . . . . 
 . . . . 5 . . . . 
@@ -89,4 +107,4 @@ namespace myImages {
     })
 
 }
-// Code généré automatiquement. Ne pas modifier.
+// Auto-generated code. Do not edit.

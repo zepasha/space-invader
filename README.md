@@ -1,6 +1,3 @@
- SIKE!
-
-
 > Ouvrir cette page à [https://zepasha.github.io/space-invader/](https://zepasha.github.io/space-invader/)
 
 ## Utiliser comme extension

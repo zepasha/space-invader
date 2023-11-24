@@ -14,12 +14,22 @@
         "mimeType": "image/x-mkcd-f4",
         "displayName": "player_blue"
     },
-    "image4": {
+    "image5": {
+        "data": "hwQJAAkAAAAAUFUFAAAAAAAAUFUAAAAAAFBVVQIAAAAAVVVVAAAAAFVVVQUAAAAAAFVVVQAAAAAAUFVVAgAAAAAAUFUAAAAAAFBVBQAAAAA=",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "player_yellow0"
+    },
+    "image6": {
+        "data": "hwQBAAMAAAARAQAA",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "bullet"
+    },
+    "image7": {
         "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
         "mimeType": "image/x-mkcd-f4",
-        "displayName": "player_yellow"
+        "displayName": "blank"
     },
-    "image5": {
+    "image4": {
         "data": "hwQJAAkAAAAAUFUFAAAAAAAAUFUAAAAAAFBVVQIAAAAAVVVVAAAAAFVVVQUAAAAAAFVVVQAAAAAAUFVVAgAAAAAAUFUAAAAAAFBVBQAAAAA=",
         "mimeType": "image/x-mkcd-f4",
         "displayName": "player_yellow"

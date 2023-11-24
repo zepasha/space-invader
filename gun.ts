@@ -3,27 +3,35 @@ let nb_cannon_red = 1
 let nb_cannon_blue = 1
 let nb_cannon_yellow = 1
 let nb_cannon_green = 1
-function gun_red() {
-    if(create_red_ == true) {
-        switch(nb_cannon_red) {
-            case 1:
 
-            break;
-        }
-    }
-}
-function gun_blue() {
-    if (create_blue_ == true) {
+let red_cooldown = 500
+let blue_cooldown = 500
+let yellow_cooldown = 500
+let green_cooldown = 500
 
-    }
-}
-function gun_yellow() {
-    if (create_yellow_ == true) {
+controller.player1.onButtonEvent(ControllerButton.A, ControllerButtonEvent.Pressed, function() {
+        let bullet = sprites.create(assets.image`bullet`, SpriteKind.Projectile)
+        bullet.setPosition(0,110)
+        bullet.x = mySprite_red.x
+        bullet.setVelocity(0, -40)
+})
+controller.player2.onButtonEvent(ControllerButton.A, ControllerButtonEvent.Pressed, function () {
+    let bullet = sprites.create(assets.image`bullet`, SpriteKind.Projectile)
+    bullet.setPosition(0, 110)
+    bullet.x = mySprite_blue.x
+    bullet.setVelocity(0, -40)
+})
+controller.player3.onButtonEvent(ControllerButton.A, ControllerButtonEvent.Pressed, function () {
+    let bullet = sprites.create(assets.image`bullet`, SpriteKind.Projectile)
+    bullet.setPosition(0, 110)
+    bullet.x = mySprite_yellow.x
+    bullet.setVelocity(0, -40)
+})
+controller.player4.onButtonEvent(ControllerButton.A, ControllerButtonEvent.Pressed, function () {
+    let bullet = sprites.create(assets.image`bullet`, SpriteKind.Projectile)
+    bullet.setPosition(0, 110)
+    bullet.x = mySprite_green.x
+    bullet.setVelocity(0, -40)
+})
 
-    }
-}
-function gun_green() {
-    if (create_green_ == true) {
 
-    }
-}
