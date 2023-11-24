@@ -1,0 +1,32 @@
+{
+    "image1": {
+        "data": "hwQJAAkAAAAAICICAAAAAAAAICIAAAAAACAiIgUAAAAAIiIiAAAAACIiIgIAAAAAACIiIgAAAAAAICIiBQAAAAAAICIAAAAAACAiAgAAAAA=",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "player_red"
+    },
+    "image2": {
+        "data": "hwQJAAkAAAAAcHcHAAAAAAAAcHcAAAAAAHB3dwUAAAAAd3d3AAAAAHd3dwcAAAAAAHd3dwAAAAAAcHd3BQAAAAAAcHcAAAAAAHB3BwAAAAA=",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "player_green"
+    },
+    "image3": {
+        "data": "hwQJAAkAAAAAgIgIAAAAAAAAgIgAAAAAAICIiAUAAAAAiIiIAAAAAIiIiAgAAAAAAIiIiAAAAAAAgIiIBQAAAAAAgIgAAAAAAICICAAAAAA=",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "player_blue"
+    },
+    "image4": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "player_yellow"
+    },
+    "image5": {
+        "data": "hwQJAAkAAAAAUFUFAAAAAAAAUFUAAAAAAFBVVQIAAAAAVVVVAAAAAFVVVQUAAAAAAFVVVQAAAAAAUFVVAgAAAAAAUFUAAAAAAFBVBQAAAAA=",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "player_yellow"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
